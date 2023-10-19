@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bcrypt": "^5.1.1",
+    "mogoose": "^0.0.1-security",
+    "mongodb": "^6.1.0",
+    "next": "13.5.5",
+    "next-auth": "^4.23.2",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "13.5.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10",
